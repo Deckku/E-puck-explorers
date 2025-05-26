@@ -36,7 +36,8 @@ The e-Puck robots operate as a cohesive unit:
 - **Metadata Management**: Robots maintain metadata (e.g., object positions, robot locations).
 - **Information Sharing**: Map updates and alerts are shared among robots via a master node.
 
-![image](https://github.com/user-attachments/assets/5aa145f7-213b-41d3-82ed-fa8a8eec6a42)
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/523d34c5-bdb0-4ee8-b5e8-fa7565db1421" />
+
 
 
 *Note*: it's worth noting that once the map coverage goes above 90% (accounting for obstacles and objects), meaning the room was fully explored, the bots return to their initial position for retrieval, if not they repeat the cycle.
