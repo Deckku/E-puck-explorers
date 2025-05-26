@@ -2,7 +2,8 @@
 
 A Python-based multi-agent system for collaborative mapping and surveillance using e-Puck robots in the Webots simulation environment. This project leverages Simultaneous Localization and Mapping (SLAM), YOLOv8 object detection, and networked coordination to enable robots to map environments and monitor for foreign objects in real-time.
 
-<img width="500" alt="Screenshot 2025-05-26 152517" src="https://github.com/user-attachments/assets/c09bdf33-fbda-4cdd-9e21-14f159768837" />
+<img width="380" alt="Screenshot 2025-05-26 153226" src="https://github.com/user-attachments/assets/1cfd490a-3da1-4fd0-b787-250718890f17" />
+
 
 ## Project Overview
 
@@ -34,7 +35,7 @@ The e-Puck robots operate as a cohesive unit:
 - **Metadata Management**: Robots maintain metadata (e.g., object positions, robot locations).
 - **Information Sharing**: Map updates and alerts are shared among robots via a master node.
 
-*Note*: A diagram illustrating the team workflow will be added in a future update.
+
 
 ### Robot Workflow
 
@@ -68,7 +69,7 @@ The YOLOv8 model was evaluated using standard metrics:
 - **mAP@0.5**: 89.7%
 - **mAP@0.5:0.95**: 73.4%
 
-*Note*: A plot of model metrics will be added soon.
+*Note*: we relied on the COCO dataset provided by YOLOv8n which has about 80 classes, feel free to use your own model and/or dataset if you know what you'll be looking for .
 
 ### Benchmarking Results
 
