@@ -1,6 +1,9 @@
 # E-puck Explorers: Cooperative Map Parsing and Real time Surveillance with e-Puck Webots Robots
 
 A Python-based multi-agent system for collaborative mapping and surveillance using e-Puck robots in the Webots simulation environment. This project leverages Simultaneous Localization and Mapping (SLAM), YOLOv8 object detection, and networked coordination to enable robots to map environments and monitor for foreign objects in real-time.
+<img width="290" alt="Screenshot 2025-05-26 153347" src="https://github.com/user-attachments/assets/ab0bb75f-d82b-4a24-9b5b-801c263ac577" />
+<img width="380" alt="Screenshot 2025-05-26 153226" src="https://github.com/user-attachments/assets/0f320a02-ff3a-49c5-9278-8e1bd301c9f6" />
+<img width="500" alt="Screenshot 2025-05-26 152517" src="https://github.com/user-attachments/assets/c09bdf33-fbda-4cdd-9e21-14f159768837" />
 
 ## Project Overview
 
