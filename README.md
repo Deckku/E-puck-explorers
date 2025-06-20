@@ -195,6 +195,9 @@ Please open an issue to discuss bugs or enhancements before submitting major cha
 - **Project Creators**: Azami Hassani Adnane & Lamkharbech Issa 
 - **LinkedIn**: [Adnane Azami Hassani](https://www.linkedin.com/in/adnane-azami-hassani-675121179/)/[Lamkharbech Issa](https://www.linkedin.com/in/issa-lamkharbech-6a5ba6305/)
 
+## Supervised by :
+Pr. Tarik Hajji
+
 ## Acknowledgments
 
 - Built with [Webots](https://www.cyberbotics.com/), [OpenCV](https://opencv.org/), and [Ultralytics YOLO](https://github.com/ultralytics/ultralytics).
